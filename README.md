@@ -1,1 +1,2 @@
-# cavegame.github.io
+- Fixed site
+- planned adding code directly and I'm going to remove the iframe and just put the site code in there, so that I can inject that code
